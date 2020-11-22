@@ -1,0 +1,4 @@
+C:\Users\thais\Pilha\obj\Debug\netcoreapp3.1\EstruturaPrograma.csprojAssemblyReference.cache
+C:\Users\thais\Pilha\obj\Debug\netcoreapp3.1\EstruturaPrograma.AssemblyInfoInputs.cache
+C:\Users\thais\Pilha\obj\Debug\netcoreapp3.1\EstruturaPrograma.AssemblyInfo.cs
+C:\Users\thais\Pilha\obj\Debug\netcoreapp3.1\EstruturaPrograma.csproj.CoreCompileInputs.cache
